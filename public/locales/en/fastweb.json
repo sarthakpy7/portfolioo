@@ -1,0 +1,80 @@
+{
+  "title": "Fastweb",
+  "image": "/projects/fb/hero.png",
+  "live": "",
+  "role": "UX Engineer",
+  "agency": "Sketchin",
+  "completed": "06.2020",
+  "awards": [],
+  "modules": [
+    {
+      "component": "TextIntro",
+      "text": "For the well-known Telco we designed a new full-digital service model for home broadband connectivity. As UX Engineer I supported the Interaction and Visual design phases, ensuring consistency in the proposed solutions and in parallel abstracting the interface elements into a Design Library that could, one day, become the corporate Design System."
+    },
+    {
+      "component": "Media",
+      "media": [
+        {
+          "src": "/projects/fb/fb.jpg",
+          "alt": "Fastweb"
+        }
+      ]
+    },
+    {
+      "component": "TextTwoColumns",
+      "title": "The challenge",
+      "text": "Having defined the value proposition, the project was divided into several epics to be designed.<br />The design activities turned out to be very complex and on several epics simultaneously.<br />Review modulated and co-design were key to holding the lines.",
+      "numbers": [
+        {
+          "value": 32,
+          "label": "Iterations"
+        },
+        {
+          "value": 35,
+          "label": "Stakeholder"
+        },
+        {
+          "value": 16,
+          "label": "Designer of Sketchin"
+        }
+      ]
+    },
+
+    {
+      "component": "Media",
+      "media": [
+        {
+          "src": "/projects/fb/fb-small-1.jpg",
+          "alt": "Fastweb mockup"
+        },
+        {
+          "src": "/projects/fb/fb-small-2.jpg",
+          "alt": "Fastweb mockup 2"
+        }
+      ]
+    },
+    {
+      "component": "TextTwoColumns",
+      "title": "Modularity and composability of interfaces",
+      "text": "The Design Library is intended to create consistency in visual communication across projects and touchpoints. It consists of a structured catalog of interface elements that are composable with each other.<br /><br />Given an existing interface, it is possible to analyze it and abstract it into the first elements. These can be used to make other templates, or new elements can be added to the Design Library.<br /><br />For this project we followed Brad Frost's Atomic Design method."
+    },
+    {
+      "component": "Media",
+      "media": [
+        {
+          "src": "/projects/fb/fb-2.jpg",
+          "alt": "Fastweb Design Library"
+        }
+      ]
+    },
+    {
+      "component": "Media",
+      "media": [
+        {
+          "src": "/projects/fb/fb-3.jpg",
+          "alt": "UI Fastweb"
+        }
+      ]
+    }
+  ]
+}

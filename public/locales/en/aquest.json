@@ -1,0 +1,92 @@
+{
+  "title": "Watcho",
+  "image": "/projects/aq/hero.jpg",
+  "live": "https://watcho-movie-app.vercel.app/",
+  "role": "Frontend Developer",
+  "agency": "Private Project",
+  "completed": "08.2024",
+  "modules": [
+    {
+      "component": "TextIntro",
+      "text": "Watcho is a feature-rich movie app built with React, JavaScript, HTML, and CSS. It offers a seamless user experience with a recommendation system, sorting options for popularity, trending, and the latest releases. Users can watch trailers via YouTube, navigate to IMDb for official information, and receive suggestions for similar movies and available seasons, making it a comprehensive platform for movie enthusiasts."
+    },
+    {
+      "component": "Media",
+      "media": [
+        {
+          "src": "/projects/aq/reel-aq.mp4",
+          "alt": "AQuest reel"
+        }
+      ]
+    },
+    {
+      "component": "TextTwoColumns",
+      "title": "The challenge",
+      "text": "During the development of Watcho, I faced several challenges, including managing complex state efficiently with React, especially when handling dynamic features like sorting and recommendations. Integrating external APIs for fetching movie data, trailers from YouTube, and IMDb details required careful handling of asynchronous operations and error management. Ensuring a smooth user experience while navigating between different features, like similar movie suggestions and seasons, was also a significant challenge, requiring optimization for performance and responsiveness across devices.",
+      "numbers": [
+        {
+          "value": "100+",
+          "label": "Movie suggestions"
+        },
+        {
+          "value": 1,
+          "label": "Month of work"
+        },
+        {
+          "value": "3+",
+          "label": "Tech stack used"
+        }
+      ]
+    },
+    {
+      "component": "Media",
+      "media": [
+        {
+          "src": "/projects/aq/v1.mp4",
+          "alt": "AQuest v1"
+        },
+        {
+          "src": "/projects/aq/v2.mp4",
+          "alt": "AQuest v2"
+        }
+      ]
+    },
+    {
+      "component": "TextTwoColumns",
+      "title": "The attention to detail",
+      "text": "All pages of the site had to have the same attention to detail, no matter how much they would be visited.<br /><br /> Attention to detail is reflected in the movie selection process also. For example, when a user selects a movie, the interface transitions smoothly to display not just the movie details but also similar recommendations and available seasons. This experience is enhanced by subtle animations and consistent design elements, ensuring the user feels a sense of continuity and flow throughout their interaction."
+    },
+    {
+      "component": "Media",
+      "media": [
+        {
+          "src": "/projects/aq/ropes.mp4",
+          "alt": "AQuest v1"
+        }
+      ]
+    },
+    {
+      "component": "Media",
+      "media": [
+        {
+          "src": "/projects/aq/pong404.mp4",
+          "alt": "AQuest v2"
+        }
+      ]
+    },
+    {
+      "component": "TextTwoColumns",
+      "title": "Not only creativity",
+      "text": "This project not only meant creativity from a visual point of view, but it was also an opportunity to experiment with new development tools.<br /><br />The entire frontend codebase is in fact written in React/JS.<br /><br />"
+    },
+    {
+      "component": "Media",
+      "media": [
+        {
+          "src": "/projects/aq/aquest-site.jpeg",
+          "alt": "AQuest site"
+        }
+      ]
+    }
+  ]
+}

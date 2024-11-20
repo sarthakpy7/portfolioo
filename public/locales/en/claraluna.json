@@ -1,0 +1,66 @@
+{
+  "title": "Claraluna",
+  "image": "/projects/claraluna/hero.jpeg",
+  "live": "",
+  "role": "Frontend Developer",
+  "agency": "AQuest",
+  "completed": "08.2015",
+  "awards": ["Awwwards", "CSS Design Award"],
+  "modules": [
+    {
+      "component": "TextIntro",
+      "text": "At Claraluna, they call themselves Memory Designers because they enchant time with their collections of wedding dresses and wedding favors. As a frontend Developer, I was responsible for the creation of their institutional website."
+    },
+    {
+      "component": "Media",
+      "media": [
+        {
+          "src": "/projects/claraluna/menu_3.mp4",
+          "alt": "Claraluna animation"
+        }
+      ]
+    },
+    {
+      "component": "TextTwoColumns",
+      "title": "The challenge",
+      "text": "In 2015 React.js was a new tool that first offered the ability to render pages on the server and return rich HTML. There was a lot of curiosity and desire in the Frontend team to see it in action.<br /><br />The challenge was balancing training time (particularly on asynchronous event handling) with project budget time.",
+      "technologies": ["React", "Redux", "sass", "Webpack"]
+    },
+    {
+      "component": "Media",
+      "media": [
+        {
+          "src": "/projects/claraluna/slide.mp4",
+          "alt": "Claraluna slider"
+        }
+      ]
+    },
+    {
+      "component": "Media",
+      "media": [
+        {
+          "src": "/projects/claraluna/claraluna.jpeg",
+          "alt": "Claraluna Home"
+        }
+      ]
+    },
+    {
+      "component": "Media",
+      "media": [
+        {
+          "src": "/projects/claraluna/claraluna-2.jpeg",
+          "alt": "Claraluna Home"
+        }
+      ]
+    },
+    {
+      "component": "Media",
+      "media": [
+        {
+          "src": "/projects/claraluna/claraluna-3.jpeg",
+          "alt": "Claraluna Home"
+        }
+      ]
+    }
+  ]
+}

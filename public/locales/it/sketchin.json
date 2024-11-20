@@ -1,0 +1,93 @@
+{
+  "title": "Nexus",
+  "image": "/projects/sk/hero.jpeg",
+  "live": "https://nexus-frontend-sarthak-singhs-projects-39d2b9eb.vercel.app/",
+  "role": "Full-stack developer",
+  "Type": "Personal Project",
+  "completed": "10.2024",
+  "awards": [],
+  "modules": [
+    {
+      "component": "TextIntro",
+      "text": "Nexus è una piattaforma robusta per la gestione dei disastri progettata con lo stack MERN. Il backend è costruito con Node.js ed Express.js per gestire efficacemente la comunicazione dei dati e la logica aziendale."
+    },
+    {
+      "component": "Media",
+      "media": [
+        {
+          "src": "/projects/sk/sk-animation.mp4",
+          "alt": "Sketchin intro animation"
+        }
+      ]
+    },
+    {
+      "component": "TextTwoColumns",
+      "title": "The challenge",
+      "text": "Durante lo sviluppo di Nexus, sono emerse diverse sfide tecniche. L'implementazione di funzionalità in tempo reale utilizzando <b>WebSocket</b> per il sistema di allerta e le mappe dei disastri live ha richiesto la gestione di flussi di dati continui senza causare problemi di prestazioni. Garantire una gestione efficiente dei dati di <b>MongoDB</b>, in particolare per la gestione delle risorse e i contenuti generati dagli utenti nei forum, è stato complesso, soprattutto considerando le preoccupazioni legate alla scalabilità. L'integrazione di <b>Stripe</b> per l'elaborazione dei pagamenti ha posto sfide di sicurezza, richiedendo un design API robusto e una tokenizzazione sicura.<br> Inoltre, la gestione dello stato e delle sessioni utente sulla piattaforma utilizzando <b>JWT</b> per l'autenticazione, mantenendo al contempo l'integrità dei dati e prevenendo accessi non autorizzati, ha aggiunto complessità alla struttura del backend."
+    },
+
+    {
+      "component": "Media",
+      "media": [
+        {
+          "src": "/projects/sk/sk-navi-1.jpg",
+          "alt": "Sketchin project filters"
+        },
+        {
+          "src": "/projects/sk/sk-navi-2.jpg",
+          "alt": "Sketchin menu navigation"
+        }
+      ]
+    },
+    {
+      "component": "TextTwoColumns",
+      "title": "Integration test",
+      "text": "Testare le funzionalità in tempo reale costruite con <b>WebSocket</b> ha richiesto la simulazione di più connessioni live e l'assicurazione della coerenza dei dati tra i client senza problemi di latenza.<br> Verificare le interazioni con <b>MongoDB</b> durante le operazioni CRUD, in particolare per la gestione delle risorse e i forum degli utenti, è stato fondamentale per garantire l'integrità dei dati durante aggiornamenti concorrenti.<br>I test sull'integrazione di <b>Stripe</b> hanno coinvolto la verifica dei flussi di pagamento sicuri e la gestione di casi limite come transazioni fallite.<br> Inoltre, testare il sistema di autenticazione basato su <b>JWT</b> è stato cruciale per convalidare il controllo degli accessi sicuro tra i diversi ruoli utente. La sincronizzazione di questi componenti durante i test ha evidenziato problemi relativi a condizioni di corsa, gestione dei dati e comunicazione in tempo reale, che sono stati risolti in modo sistematico."
+    },
+    {
+      "component": "Media",
+      "media": [
+        {
+          "src": "/projects/sk/sketchin-form-1.jpeg",
+          "alt": "Sketchin project filters"
+        },
+        {
+          "src": "/projects/sk/sketchin-form-2.jpeg",
+          "alt": "Sketchin menu navigation"
+        }
+      ]
+    },
+    {
+      "component": "Media",
+      "media": [
+        {
+          "src": "/projects/sk/sk-hero.jpg",
+          "alt": "Sketchin services page"
+        }
+      ]
+    },
+    {
+      "component": "TextTwoColumns",
+      "title": "Automations",
+      "text": "Il testing automatizzato in <strong>Nexus</strong> ha coinvolto la semplificazione dei test per le funzionalità principali come gli avvisi in tempo reale, l'elaborazione dei pagamenti e l'autenticazione degli utenti. Utilizzando framework di testing, abbiamo automatizzato le operazioni di <strong>MongoDB</strong> e l'autenticazione con <strong>JWT</strong>, garantendo prestazioni coerenti tra le funzionalità. Questo approccio ha aiutato a identificare rapidamente i bug, ridurre il tempo di testing manuale e garantire l'affidabilità del sistema in diverse condizioni."
+    },
+   
+    {
+      "component": "TextTwoColumns",
+      "title": "A modular front-end",
+      "text": "Grazie all'utilizzo di <b>REACT</b>, la piattaforma Nexus presenta un front-end modulare che migliora la manutenibilità e la scalabilità. Questo approccio consente di creare componenti riutilizzabili e sviluppati in modo indipendente, facilitando aggiornamenti efficienti ed espansioni delle funzionalità. L'architettura modulare semplifica la gestione dello stato e promuove la collaborazione tra gli sviluppatori, accelerando il processo di sviluppo e migliorando la qualità del codice.",
+      "numbers": [
+        
+        {
+          "value": "2",
+          "label": "Months of development"
+        },
+        {
+          "value": "5+",
+          "label": "Tech Stack used"
+        }
+      ]
+    }
+   
+  ]
+}

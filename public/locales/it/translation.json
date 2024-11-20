@@ -1,0 +1,65 @@
+{
+  "loading": "Caricamento",
+  "enter": "Entra",
+  "role": "Ruolo",
+  "agency": "Agenzia",
+  "completed": "Completato",
+  "riconoscimenti": "Riconoscimenti",
+  "close": "Chiudi",
+  "close project": "Chiudi il progetto",
+  "go to project": "Visita il case",
+  "intro": {
+    "p1": {
+      "l1": "Si tratta di tecnologia",
+      "l2": "e di metodo di design"
+    },
+    "p2": {
+      "l1": "La ricerca e l'innovazione",
+      "l2": "sono il driver per esperienze memorabili"
+    },
+    "p3": {
+      "l1": "Sono un Full stack developer"
+    },
+    "p4": {
+      "l1": "They Call Me Sarthak."
+    },
+    "scroll_cta": {
+      "line1": "Scrolla per",
+      "line2": "vedere i progetti"
+    }
+  },
+  "portfolio": {
+    "intro": [
+      "Creo",
+      "esperienze digitali<br />interattive.",
+      "Dallo sviluppo del frontend e del backend (MERN), alla ricerca di elementi UI, fino alla cura maniacale delle interazioni.",
+      "E poi, il mio primo amore, Data structure and algorithms."
+    ],
+    "portfolio": [
+      "Progetti",
+      "Sono compatibile con tecnologie come: <strong>JS</strong>, <strong>Typescript</strong>, <strong>React</strong>, <strong>MongoDB</strong>, <strong>ExpressJS</strong>, <strong>NodeJS</strong>, <strong>GLSL</strong>, <strong>GSAP</strong>, <strong>Postman</strong>, <strong>Redis</strong>, <strong>Docker</strong>.<br /><br />",
+"Ecco alcuni dei miei progetti più rilevanti."
+    ]
+  },
+  "about": {
+    "intro": [
+
+"Sono nato a <ImageVenice>Varanasi</ImageVenice> nell'agosto del 2004, oggi sono uno studente al terzo anno di ingegneria presso l'IIIT Bhagalpur. Il mio percorso in ingegneria è stato guidato dalla passione per la tecnologia e l'innovazione, sviluppando diversi progetti su tecnologie differenti e risolvendo oltre 400 problemi di DSA su più piattaforme. Sono profondamente investito in questo campo pionieristico.",
+"<pre>Due/ys</pre> FA (2022) SONO ENTRATO<br />ALL'IIIT BHAGALPUR<br />DOPO AVER QUALIFICATO IL JEE.",
+"Anni fa ho ottenuto il 98% nella classe 10 e il 95% nell'esame del consiglio CBSE di classe 12, e da allora il mio interesse si è spostato nel mondo della programmazione. Da allora ho progettato e implementato esperienze virtuali. Ho studiato diversi linguaggi di programmazione e database per coprire l'intero stack. Oggi penso principalmente in MERN <ImageTCMGTK> Curriculum</ImageTCMGTK>"
+    ],
+    "clan_title": [],
+    "clan": [],
+    "method_title": "Metodo<br /><pre>e</pre>riconoscimenti",
+    "method": [
+      "Creare un prodotto di successo non vuol dire solo avere una bella estetica e animazioni d’effetto.<br />L'efficacia e l'usabilità di un progetto dipendono dalle sinergie che si formano tra designer e developer.",
+      "Prediligo metodologie Lean<br />e Agile.",
+      "Promuovo per me e per gli altri<br />il miglioramento continuo,<br />attitudinale e di metodo.",
+      "Se oltre a questo arrivano dei riconoscimenti nazionali è una soddisfazione maggiore."
+    ]
+  },
+  "contact": {
+    "intro": "È possibile entrare in contatto con me scrivendo a",
+    "social_intro": "Mi trovate un po’ meno sui social, ma se volete potete contattarmi anche su"
+  }
+}

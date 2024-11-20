@@ -1,0 +1,93 @@
+{
+  "title": "Nexus",
+  "image": "/projects/sk/hero.jpeg",
+  "live": "https://nexus-frontend-sarthak-singhs-projects-39d2b9eb.vercel.app/",
+  "role": "Full-stack developer",
+  "Type": "Personal Project",
+  "completed": "10.2024",
+  "awards": [],
+  "modules": [
+    {
+      "component": "TextIntro",
+      "text": "Nexus is a robust disaster management platform engineered with the MERN stack. The backend is built with Node.js and Express.js to handle data communication and business logic efficiently."
+    },
+    {
+      "component": "Media",
+      "media": [
+        {
+          "src": "/projects/sk/sk-animation.mp4",
+          "alt": "Sketchin intro animation"
+        }
+      ]
+    },
+    {
+      "component": "TextTwoColumns",
+      "title": "The challenge",
+      "text": "During the development of Nexus, several technical challenges emerged. Implementing real-time features using <b>WebSocket</b> for the alert system and live disaster maps required managing continuous data streams without causing performance issues. Ensuring efficient <b>MongoDB</b> data handling, particularly for resource management and user-generated content in forums, was tricky, especially with scaling concerns. Integrating <b>Stripe</b> for payment processing posed security challenges, requiring robust API design and secure tokenization.<br> Additionally, managing state and user sessions across the platform using <b>JWT</b> for authentication while maintaining data integrity and preventing unauthorized access added complexity to the backend structure."
+    },
+
+    {
+      "component": "Media",
+      "media": [
+        {
+          "src": "/projects/sk/sk-navi-1.jpg",
+          "alt": "Sketchin project filters"
+        },
+        {
+          "src": "/projects/sk/sk-navi-2.jpg",
+          "alt": "Sketchin menu navigation"
+        }
+      ]
+    },
+    {
+      "component": "TextTwoColumns",
+      "title": "Integration test",
+      "text": "Testing real-time features built with <b>WebSocket</b> required simulating multiple live connections and ensuring data consistency across clients without latency issues.<br> Verifying <b>MongoDB</b> interactions during CRUD operations, especially for resource management and user forums, was critical to ensure data integrity during concurrent updates.<br><b>Stripe</b> integration testing involved ensuring secure payment flows and handling edge cases like failed transactions.<br> Additionally, testing the <b>JWT-based authentication</b> system was crucial to validate secure access control across different user roles. Synchronizing these components during testing highlighted issues related to race conditions, data handling, and real-time communication, which were systematically resolved."
+    },
+    {
+      "component": "Media",
+      "media": [
+        {
+          "src": "/projects/sk/sketchin-form-1.jpeg",
+          "alt": "Sketchin project filters"
+        },
+        {
+          "src": "/projects/sk/sketchin-form-2.jpeg",
+          "alt": "Sketchin menu navigation"
+        }
+      ]
+    },
+    {
+      "component": "Media",
+      "media": [
+        {
+          "src": "/projects/sk/sk-hero.jpg",
+          "alt": "Sketchin services page"
+        }
+      ]
+    },
+    {
+      "component": "TextTwoColumns",
+      "title": "Automations",
+      "text": "Automation testing in <strong>Nexus</strong> involved streamlining tests for core functionalities like real-time alerts, payment processing, and user authentication. Using testing frameworks, we automated <strong>MongoDB</strong> operations and <strong>JWT authentication</strong>, ensuring consistent performance across features. This approach helped quickly identify bugs, reduce manual testing time, and ensure system reliability under various conditions."
+    },
+   
+    {
+      "component": "TextTwoColumns",
+      "title": "A modular front-end",
+      "text": "By utilizing <b>REACT</b>, the Nexus platform features a modular front end that enhances maintainability and scalability. This approach allows for reusable and independently developed components, facilitating efficient updates and feature expansions. The modular architecture simplifies state management and promotes collaboration among developers, ultimately speeding up the development process and improving code quality.",
+      "numbers": [
+        
+        {
+          "value": "2",
+          "label": "Months of development"
+        },
+        {
+          "value": "5+",
+          "label": "Tech Stack used"
+        }
+      ]
+    }
+   
+  ]
+}

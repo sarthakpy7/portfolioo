@@ -1,0 +1,75 @@
+{
+  "title": "Feudi di San Gregorio",
+  "image": "/projects/feudi/hero.png",
+  "live": "https://www.feudi.it/",
+  "role": "Frontend Developer",
+  "agency": "AQuest",
+  "completed": "04.2017",
+  "awards": [],
+  "modules": [
+    {
+      "component": "TextIntro",
+      "text": "Feudi di San Gregorio is the winery that has been enhancing the native grape varieties of the Campania region for over thirty years. As Frontend Developer I was in charge of the realization of their institutional website, with React, Redux, RX and REST API."
+    },
+    {
+      "component": "Media",
+      "media": [
+        {
+          "src": "/projects/feudi/feudi-1.jpeg",
+          "alt": "Feudi di San Gregorio - Capitolo 1"
+        }
+      ]
+    },
+    {
+      "component": "TextTwoColumns",
+      "title": "The challenge",
+      "text": "I remember this project because it was a challenge against time. Efforts were made to maximize the creative and artistic traits of the brand. Each section of the site has a significantly different layout. The \"Our Wines\" section, for example, is navigable with the movement of the mouse.<br /><br /> It was a challenge to get the project done on time, and perhaps because of that it is one of my favorite projects.",
+      "numbers": [
+        {
+          "value": 8,
+          "label": "Weeks of development"
+        },
+        {
+          "value": 5,
+          "label": "People in the team"
+        },
+        {
+          "value": 6,
+          "label": "Languages"
+        }
+      ]
+    },
+    {
+      "component": "Media",
+      "media": [
+        {
+          "src": "/projects/feudi/reel-1.mp4",
+          "alt": "Feudi Navigation"
+        },
+        {
+          "src": "/projects/feudi/reel-2.mp4",
+          "alt": "Feudi Scroll"
+        }
+      ]
+    },
+    {
+      "component": "TextTwoColumns",
+      "title": "Stack frontend",
+      "text": "",
+      "technologies": ["React", "Redux", "Rx", "Sass", "Webpack"]
+    },
+    {
+      "component": "Media",
+      "media": [
+        {
+          "src": "/projects/feudi/feudi-2.jpeg",
+          "alt": "Feudi"
+        }
+      ]
+    },
+    {
+      "component": "Awards",
+      "awards": []
+    }
+  ]
+}

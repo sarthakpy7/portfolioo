@@ -1,0 +1,64 @@
+{
+  "loading": "Loading",
+  "enter": "Enter",
+  "role": "Role",
+  "agency": "Agency",
+  "completed": "Completed",
+  "riconoscimenti": "Awards",
+  "close": "Close",
+  "close project": "Close this project",
+  "go to project": "Go to",
+  "intro": {
+    "p1": {
+      "l1": "It's all about technology",
+      "l2": "and design process"
+    },
+    "p2": {
+      "l1": "Research and innovation",
+      "l2": "are the driver of memorable experiences"
+    },
+    "p3": {
+      "l1": "I'm a Full Stack Developer"
+    },
+    "p4": {
+      "l1": "They Call Me Sarthak."
+    },
+    "scroll_cta": {
+      "line1": "Scroll down",
+      "line2": "to see some work"
+    }
+  },
+  "portfolio": {
+    "intro": [
+      "I craft",
+      "interactive digital<br />experiences.",
+      "From developing frontend & backend (MERN), to researching UI elements, to maniacally curating interactions.",
+      "Plus, my first love, Data structure and algorithms."
+    ],
+    "portfolio": [
+      "Projects",
+      "I am compatible with tech such as: <strong>JS</strong>, <strong>Typescript</strong>, <strong>React</strong>, <strong>MongoDB</strong>, <strong>ExpressJS</strong>, <strong>NodeJS</strong>, <strong>GLSL</strong>, <strong>GSAP</strong>, <strong>Postman</strong>, <strong>Redis</strong>, <strong>Docker</strong>.<br /><br />",
+      "Here are some of my most relevant projects."
+    ]
+  },
+  "about": {
+    "intro": [
+      "I was born in <ImageVenice>Varanasi</ImageVenice> in August 2004, today I am a 3rd year undergrad student at IIIT Bhagalpur. My journey in engineering has been driven by a passion for technology and innovation, by making several projects on different tech stack and by solving 400+ DSA problems across multiple platforms i am invested in this pioneer field.",
+      "<pre>Two/ys</pre>AGO(2022) I JOINED<br />IIT BHAGALPUR<br /> AFTER QUALIFYING JEE.",
+      "Years ago i scored 98% in 10th and 95% in class 12th CBSE board examination and after that my interest shifted to coding world . Since then I have been designing and implementing virtual experiences. I have studied different programming languages and database to cover the whole stack. Today i mostly think in MERN <ImageTCMGTK> Resume</ImageTCMGTK>"
+    ],
+    "clan_title": [],
+    "clan": [],
+    "method_title": "Method<br /><pre>&</pre>Acknowledgements",
+    "method": [
+      "Creating a successful product is not just about having beautiful aesthetics and impressive animations.<br />The effectiveness and usability of a project depends on the synergies formed between designer and developer.",
+      "I emphasize Lean and Agile<br />methodologies",
+      "I promote continuous, attitudinal<br />and methodical improvement<br />for myself and others",
+      "If national recognition comes on top of that, it is a greater satisfaction."
+    ]
+  },
+  "contact": {
+    "intro": "You can get in touch with me by writing to",
+    "social_intro": "You can find me a little less on social, but if you want you can also contact me on"
+  }
+}
